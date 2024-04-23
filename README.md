@@ -25,4 +25,4 @@ I'm an aspiring Software and Cloud Engineer. I am also into data analysis. I lov
 ![](https://github-contributor-stats.vercel.app/api?username=Epowei&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Epowei&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Epowei&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
