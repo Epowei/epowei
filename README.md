@@ -13,7 +13,19 @@ I'm an aspiring Software and Cloud Engineer. I am also into data analysis. I lov
 - 💼 Job interests: Cloud Engineer, Devops Engineer, Front-end Engineer, or Data analyst (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing erejef@yahoo.com.
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adaeze-69&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adaeze-69&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adaeze-69&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=epowei&show_icons=true&include_all_commits=true&hide_border=true" alt="epowei's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epowei&langs_count=8&layout=compact&hide_border=true" alt="Epowei's GitHub stats" /> |
-| ------------- | ------------- |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adaeze-69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/adaeze_nnamdi4)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adaeze-69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adaeze-69&icon=0&color=0)](https://visitcount.itsvg.in)
