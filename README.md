@@ -12,6 +12,7 @@ I'm an aspiring Software and Cloud Engineer. I am also into data analysis. I lov
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Devops Engineer, Front-end Engineer, or Data analyst (Intern or Junior level).
 - 📫 You can contact me by emailing erejef@yahoo.com.
+- 📄 You can also check my cv at [my resume](https://flowcv.com/resume/hb25uqhllp)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Epowei&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
